@@ -2,7 +2,6 @@
     <img alt="Animacoes" title="#Animacoes" src=".images/header.png" width="100%" />
 </h1>
 
-<!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 
 <h4 align="center"> 
 	AluraMed
@@ -18,7 +17,6 @@
 
 O AluraMed é uma aplicação feita em React Native que simula um aplicativo de consultas médicas. A ideia é usar animações nesse projeto para tornar a aplicação mais agradável e intuitiva.
 
-Esse projeto é utilizado na formação base de React Native da plataforma da Alura.
 
 
 <h1 align="center">
@@ -42,7 +40,6 @@ No terminal, digite os comandos a seguir:
 
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/alura-cursos/react-native-animacoes.git
 
 # Vá para o ropositório
 $ cd AluraMed
@@ -57,10 +54,6 @@ $ npm install
 # Execute em outro terminal (dentro da pasta AluraMed)
 $ expo start
 ```
-
-
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
 
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
